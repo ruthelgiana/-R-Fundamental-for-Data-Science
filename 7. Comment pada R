@@ -1,0 +1,1 @@
+2+2 #Ini adalah komentar penutup
